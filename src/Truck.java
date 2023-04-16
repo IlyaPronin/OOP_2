@@ -11,7 +11,7 @@ public class Truck extends Transport implements Engineable{
 
     @Override
     public void checkEngine() {
-        System.out.println("Проверяем двигательу грузовика");
+        System.out.println("Проверяем двигатель у грузовика");
     }
 
     public void checkTrailer() {
